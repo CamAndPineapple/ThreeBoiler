@@ -1,5 +1,4 @@
 let canvas = document.getElementById('canvas');
-let texture = new THREE.TextureLoader().load('../assets/particles/raindrop-2.png');
 
 let DEFAULT_SETTINGS = {
     HEIGHT: window.innerHeight,
